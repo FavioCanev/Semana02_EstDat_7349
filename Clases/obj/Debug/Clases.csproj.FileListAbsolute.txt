@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\PracticasProgramacion\PruebasDeCSharp\Semana02_EstDat_7349\Clases\bin\Debug\Clases.dll
+C:\Users\Asus\Documents\PracticasProgramacion\PruebasDeCSharp\Semana02_EstDat_7349\Clases\bin\Debug\Clases.pdb
+C:\Users\Asus\Documents\PracticasProgramacion\PruebasDeCSharp\Semana02_EstDat_7349\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\PracticasProgramacion\PruebasDeCSharp\Semana02_EstDat_7349\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\PracticasProgramacion\PruebasDeCSharp\Semana02_EstDat_7349\Clases\obj\Debug\Clases.dll
+C:\Users\Asus\Documents\PracticasProgramacion\PruebasDeCSharp\Semana02_EstDat_7349\Clases\obj\Debug\Clases.pdb
