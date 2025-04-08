@@ -36,6 +36,7 @@ namespace Ejecucion
                 Console.WriteLine("4. Ordenar");
                 Console.WriteLine("0. Salir");
                 Console.Write("INGRESA UNA OPCIÓN: ");
+                Console.WriteLine("Prueba de actualización commit github");
                 op = int.Parse(Console.ReadLine());
 
                 switch (op)
